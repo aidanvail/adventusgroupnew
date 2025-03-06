@@ -285,7 +285,7 @@ body {
 /* About Page Specific Styles */
 .about-hero {
     background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('assets/hero6.png');
-    height: 90vh;
+    height: 99vh;
     display: flex;
     align-items: center;
     text-align: center;
